@@ -1,0 +1,37 @@
+.App
+{
+    height: 600px;
+}
+
+
+.box
+{
+    width: 20%;
+    height: 300px;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px;
+    
+}
+
+.boxdark
+{
+        background-color: rgb(51, 50, 50);
+}
+
+.btndark
+{
+    background-color: black;
+}
+
+.dark
+{
+    background-color: black;
+    color: white;
+}
+
+.light
+{
+   color: black;
+   background-color: white;
+}
